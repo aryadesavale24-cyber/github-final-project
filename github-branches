@@ -1,0 +1,13 @@
+$ git branch -vv
+  bug-fix-revert cb3b2d8 Add bug-fix-revert pull request verification file
+  bug-fix-typo   9218f6c Fix typo and add copyright notice in README.md
+* main           cb3b2d8 [origin/main] Add bug-fix-revert pull request verification file
+
+$ git branch -a
+  bug-fix-revert
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/bug-fix-typo
+  remotes/origin/main

@@ -7,7 +7,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 1. **Fork the Repository**: Fork this repository to your own GitHub account.
 2. **Clone the Fork**: Clone the repository to your local system:
    ```bash
-   git clone https://github.com/aryadesavale24-cyber/simple.git
+   git clone https://github.com/aryadesavale24-cyber/github-final-project.git
    ```
 3. **Create a New Branch**:
    ```bash

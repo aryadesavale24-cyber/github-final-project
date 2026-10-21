@@ -29,3 +29,5 @@ Follow the instructions below to execute the calculator script:
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+_© 2026 Simple Interest Calculator Contributors._
